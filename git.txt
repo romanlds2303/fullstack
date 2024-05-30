@@ -23,3 +23,10 @@
 
 7. Si tocamos algo, volvemos a iniciar, menos el numero 1.
 
+8. Git status => Consulta el estado Git
+
+9. git no guarda directorio vacio por default
+
+10. git remote -v => me muestra dónde están gurdados los códigos en remoto
+
+11. git log => me muestra los commits hechos y quien los hizo 
