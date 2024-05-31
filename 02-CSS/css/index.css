@@ -12,4 +12,19 @@
     color: saddlebrown;
     }
 
-    
+    /* 1. Selector con ID, Usarlo preferentemente una sola vez */
+
+    #colorMarron{
+        color: brown;
+    }
+
+    /* 2. Selector de CLASE; si lo podemos utilizar más de una vez */
+
+    .colorFondo{
+        background: violet;
+        color: black;
+    }
+
+    .textoGrande{
+        font-size: 60px;
+    }
