@@ -63,4 +63,4 @@ console.error(nombre+apellido+provincia);
 console.warn(nombre+apellido+provincia);
 
 
-alert("soy un mensaje de alerta")
+//alert("soy un mensaje de alerta")
